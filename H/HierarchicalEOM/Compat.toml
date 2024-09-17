@@ -60,8 +60,13 @@ julia = "1.9.0-1"
 ["2.1-2"]
 OrdinaryDiffEqCore = "1"
 OrdinaryDiffEqLowOrderRK = "1"
-QuantumToolbox = "0.13"
 SciMLBase = "2"
 SciMLOperators = "0.3"
 StaticArraysCore = "1"
 julia = "1.10.0-1"
+
+["2.1-2.2.0"]
+QuantumToolbox = "0.13"
+
+["2.2.1-2"]
+QuantumToolbox = "0.13-1"
